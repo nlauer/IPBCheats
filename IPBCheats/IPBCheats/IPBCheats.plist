@@ -1,0 +1,4827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>5</key>
+	<array>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>marlboro</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1193</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0cd.png</string>
+			<key>hint</key>
+			<string>Come to where the flavour is</string>
+			<key>open letter</key>
+			<string>M _ _ L _ _ R _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>formula one</string>
+				<string>formula 1</string>
+				<string>f1</string>
+				<string>fia formula one world championship</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1449</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0w8j.png</string>
+			<key>hint</key>
+			<string>Single-seater auto racing</string>
+			<key>open letter</key>
+			<string>_ O _ _ U _ A   _ N _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>motogp</string>
+				<string>grand prix motorcycle racing</string>
+				<string>road racing world championship grand prix</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1450</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0a8j.png</string>
+			<key>hint</key>
+			<string>Premier championship of motorcycle road racing</string>
+			<key>open letter</key>
+			<string>M _ _ _ _ P</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>goodyear</string>
+				<string>goodyear tire and rubber company</string>
+				<string>goodyear tire &amp; rubber company</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1260</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0bi.png</string>
+			<key>hint</key>
+			<string>A Global tyre manufacturer</string>
+			<key>open letter</key>
+			<string>G _ O _ _ E _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>hbo</string>
+				<string>home box office</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1280</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0qi.png</string>
+			<key>hint</key>
+			<string>Premium cable television network</string>
+			<key>open letter</key>
+			<string>_ B _</string>
+			<key>distFalse</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>fisherman&apos;s friend</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1285</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0ni.png</string>
+			<key>hint</key>
+			<string>A brand of strong menthol lozenges</string>
+			<key>open letter</key>
+			<string>_ _ _ H E _ M _ N &apos; _   F _ I _ _ D</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>victorinox</string>
+				<string>swiss army</string>
+				<string>victorinox swiss army</string>
+				<string>victorinox ag</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1508</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0pcj.png</string>
+			<key>hint</key>
+			<string>A knife manufacturer</string>
+			<key>open letter</key>
+			<string>_ I _ T _ R _ _ _ X</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>playboy</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1384</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0h5j.png</string>
+			<key>hint</key>
+			<string>An American men&apos;s magazine</string>
+			<key>open letter</key>
+			<string>_ L A _ B _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>lacoste</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1232</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0u0.png</string>
+			<key>hint</key>
+			<string>L!VE</string>
+			<key>open letter</key>
+			<string>L _ _ O _ _ E</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>tag heuer s.a.</string>
+				<string>tag heuer</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1275</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>03i.png</string>
+			<key>hint</key>
+			<string>Swiss avant garde since 1860</string>
+			<key>open letter</key>
+			<string>_ _ G   _ E _ E R   _ . _ .</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>subway</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1350</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>09jj.png</string>
+			<key>hint</key>
+			<string>Eat Fresh</string>
+			<key>open letter</key>
+			<string>_ U _ _ _ Y</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>baygon</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1436</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0p7j.png</string>
+			<key>hint</key>
+			<string>A pesticide brand</string>
+			<key>open letter</key>
+			<string>B _ _ G _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>corona extra</string>
+				<string>corona</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1497</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0rcj.png</string>
+			<key>hint</key>
+			<string>Miles Away From Ordinary</string>
+			<key>open letter</key>
+			<string>_ O _ _ N _   _ X _ R _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>absolut vodka</string>
+				<string>absolut</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1267</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>02i.png</string>
+			<key>hint</key>
+			<string>Country of Sweden</string>
+			<key>open letter</key>
+			<string>A _ _ _ L _ T   _ _ D _ A</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>dom perignon</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1327</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0zbj.png</string>
+			<key>hint</key>
+			<string>A monk and cellar master</string>
+			<key>open letter</key>
+			<string>D _ _   _ E _ _ _ N O _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>smirnoff</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1294</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>00i.png</string>
+			<key>hint</key>
+			<string>Moscow Vodka</string>
+			<key>open letter</key>
+			<string>_ _ I _ N O _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>paramount</string>
+				<string>paramount pictures corporation</string>
+				<string>paramount pictures</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1343</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0sjj.png</string>
+			<key>hint</key>
+			<string>A global producer and distributor of filmed entertainment</string>
+			<key>open letter</key>
+			<string>P _ R _ _ _ U _ T</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>nikon</string>
+				<string>nikon corporation</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1409</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0c7j.png</string>
+			<key>hint</key>
+			<string>At the heart of the image</string>
+			<key>open letter</key>
+			<string>N _ _ _ N</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>hsbc holdings plc</string>
+				<string>hsbc</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1388</string>
+			<key>distTrue</key>
+			<integer>0</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0q5j.png</string>
+			<key>hint</key>
+			<string>The world&apos;s local bank</string>
+			<key>open letter</key>
+			<string>H _ _ _   H _ L _ I _ _ _   P L _</string>
+			<key>distFalse</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>energizer</string>
+				<string>energizer batteries</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1206</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>09d.png</string>
+			<key>hint</key>
+			<string>Keep Going</string>
+			<key>open letter</key>
+			<string>E _ _ _ G _ Z _ R</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>spam</string>
+				<string>spiced ham</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1445</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0c8j.png</string>
+			<key>hint</key>
+			<string>A canned precooked meat</string>
+			<key>open letter</key>
+			<string>_ P _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>listerine</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1266</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>01i.png</string>
+			<key>hint</key>
+			<string>Kills germs that cause bad breath</string>
+			<key>open letter</key>
+			<string>_ _ S T _ R _ _ E</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>capri sun</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1222</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>00d.png</string>
+			<key>hint</key>
+			<string>Respect the Pouch.</string>
+			<key>open letter</key>
+			<string>_ _ P R _   S _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>swarovski</string>
+				<string>swarovski ag</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1406</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>057j.png</string>
+			<key>hint</key>
+			<string>Crystal and luxury products</string>
+			<key>open letter</key>
+			<string>_ W A _ _ V S _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>christian louboutin</string>
+				<string>louboutin</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1493</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0xcj.png</string>
+			<key>hint</key>
+			<string>French footwear designer</string>
+			<key>open letter</key>
+			<string>C _ _ _ S T _ _ N   L _ _ _ O _ T I _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>tory burch</string>
+				<string>ballet flat</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1397</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0o5j.png</string>
+			<key>hint</key>
+			<string>A luxury lifestyle brand defined by classic American sportswear</string>
+			<key>open letter</key>
+			<string>_ O _ Y   B _ _ _ H</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>dr. martens</string>
+				<string>doctor martens</string>
+				<string>doc martens</string>
+				<string>docs</string>
+				<string>dms</string>
+				<string>dr. martens airwair</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1338</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>01jj.png</string>
+			<key>hint</key>
+			<string>British footwear brand</string>
+			<key>open letter</key>
+			<string>D _ .   _ A _ _ E _ S</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>fifa</string>
+				<string>international federation of association football</string>
+				<string>federation internationale de football association</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1328</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0pbj.png</string>
+			<key>hint</key>
+			<string>For the Game. For the World.</string>
+			<key>open letter</key>
+			<string>_ _ F _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>power balance</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1358</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>04jj.png</string>
+			<key>hint</key>
+			<string>Performance Technology</string>
+			<key>open letter</key>
+			<string>P _ _ E _   B _ L _ N _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>uniqlo</string>
+				<string>uniqlo co., ltd.</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1569</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0r2j.png</string>
+			<key>hint</key>
+			<string>Made For All</string>
+			<key>open letter</key>
+			<string>U _ I _ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>penguin books</string>
+				<string>penguin</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1236</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0l0.png</string>
+			<key>hint</key>
+			<string>Sir Allen Lane</string>
+			<key>open letter</key>
+			<string>P _ _ _ U _ _   B _ O _ S</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>laduree</string>
+				<string>patisserie e. laduree company</string>
+				<string>societe patisserie e. laduree</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1245</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0r0.png</string>
+			<key>hint</key>
+			<string>The inventor of the double-decker macaron</string>
+			<key>open letter</key>
+			<string>L _ _ _ R _ E</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>etch a sketch</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1313</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0xbj.png</string>
+			<key>hint</key>
+			<string>Doodle Dialing</string>
+			<key>open letter</key>
+			<string>E _ C _   _   S _ _ T _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>sphero</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1374</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>015j.png</string>
+			<key>hint</key>
+			<string>Give me some space to drive my ball</string>
+			<key>open letter</key>
+			<string>S _ H _ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>wite-out</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1376</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0u5j.png</string>
+			<key>hint</key>
+			<string>Correction tape</string>
+			<key>open letter</key>
+			<string>_ I _ E - _ _ T</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>tipp-ex</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1377</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0w5j.png</string>
+			<key>hint</key>
+			<string>A trademark for correction products</string>
+			<key>open letter</key>
+			<string>T _ _ P - _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>canon</string>
+				<string>kiyanon</string>
+				<string>canon inc.</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1408</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>087j.png</string>
+			<key>hint</key>
+			<string>Delighitng you always</string>
+			<key>open letter</key>
+			<string>C _ _ _ N</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>uglydolls</string>
+				<string>uglydoll</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1411</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>027j.png</string>
+			<key>hint</key>
+			<string>Ugly means unique and special</string>
+			<key>open letter</key>
+			<string>U _ _ _ _ O L _ S</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>red mango</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1446</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>018j.png</string>
+			<key>hint</key>
+			<string>Treat yourself well</string>
+			<key>open letter</key>
+			<string>_ E _   _ A _ _ O</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>fujifilm instax</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1453</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0m8j.png</string>
+			<key>hint</key>
+			<string>Instant photo system</string>
+			<key>open letter</key>
+			<string>_ N _ T _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>chiclets</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1507</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0zcj.png</string>
+			<key>hint</key>
+			<string>Candy coated chewing gum</string>
+			<key>open letter</key>
+			<string>C _ _ C _ _ T _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>laker airways</string>
+				<string>laker</string>
+				<string>skytrain</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1528</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0h1j.png</string>
+			<key>hint</key>
+			<string>Wholly private, British independent airline founded in 1966</string>
+			<key>open letter</key>
+			<string>L _ _ _ R   _ I _ W _ Y _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>gulf stream</string>
+				<string>gulfstream aerospace corporation</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1554</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>012j.png</string>
+			<key>hint</key>
+			<string>Business Jet Aircraft</string>
+			<key>open letter</key>
+			<string>_ U L _   _ T R _ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>yellow cab</string>
+				<string>yellow cab company</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1588</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>08uj.png</string>
+			<key>hint</key>
+			<string>Taxi</string>
+			<key>open letter</key>
+			<string>Y _ L _ _ W   _ _ B</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>obey</string>
+				<string>obey giant</string>
+				<string>obey clothing</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1498</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0vcj.png</string>
+			<key>hint</key>
+			<string>Shepard Fairey</string>
+			<key>open letter</key>
+			<string>_ B _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>pocky</string>
+				<string>mikado</string>
+				<string>rocky</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1389</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0r5j.png</string>
+			<key>hint</key>
+			<string>Chocolate-coated biscuit sticks</string>
+			<key>open letter</key>
+			<string>_ _ C K _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>shin ramyun</string>
+				<string>nong shim ramyun</string>
+				<string>nong shim</string>
+				<string>nong shim ltd.</string>
+				<string>nongshim co., ltd.</string>
+				<string>nongshim ramyun</string>
+				<string>nongshim</string>
+				<string>nongshim ltd.</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1515</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>071j.png</string>
+			<key>hint</key>
+			<string>Korean instant noodles</string>
+			<key>open letter</key>
+			<string>S _ I _   R _ _ _ _ N</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>indomie</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1218</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0yd.png</string>
+			<key>hint</key>
+			<string>Indonesian instant noodles</string>
+			<key>open letter</key>
+			<string>I N _ _ M _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+	</array>
+	<key>4</key>
+	<array>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>sprite</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1300</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>08bj.png</string>
+			<key>hint</key>
+			<string>Lemon-lime flavored soft drink</string>
+			<key>open letter</key>
+			<string>S _ R _ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>magnum</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1235</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0s0.png</string>
+			<key>hint</key>
+			<string>Pleasure Hunt</string>
+			<key>open letter</key>
+			<string>M _ _ _ _ M</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>krispy kreme</string>
+				<string>krispy kreme doughnuts</string>
+				<string>krispy kreme doughnuts, inc</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1176</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0gp.png</string>
+			<key>hint</key>
+			<string>Coffee &amp; Doughnuts Since 1937</string>
+			<key>open letter</key>
+			<string>_ R _ _ P _   K _ _ M _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>dunkin&apos; donuts</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1207</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0ed.png</string>
+			<key>hint</key>
+			<string>America runs on it</string>
+			<key>open letter</key>
+			<string>D _ N _ I _ &apos;   _ O N _ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>vespa</string>
+				<string>piaggio</string>
+				<string>piaggio vespa</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1282</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0vi.png</string>
+			<key>hint</key>
+			<string>Italian scooter</string>
+			<key>open letter</key>
+			<string>_ E S _ _</string>
+			<key>distFalse</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>oral-b</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1296</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0bbj.png</string>
+			<key>hint</key>
+			<string>Toothbrushes</string>
+			<key>open letter</key>
+			<string>O _ A _ - _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>tabasco</string>
+				<string>tabasco sauce</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1428</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0g7j.png</string>
+			<key>hint</key>
+			<string>Legendary pepper sauce</string>
+			<key>open letter</key>
+			<string>T _ _ _ S _ O</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>vodafone group plc</string>
+				<string>vodafone</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1297</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0jbj.png</string>
+			<key>hint</key>
+			<string>A British multinational telecommunications company</string>
+			<key>open letter</key>
+			<string>V O _ A _ _ _ E   G _ _ U _   P _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>pan am</string>
+				<string>pan american world airways</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1527</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>031j.png</string>
+			<key>hint</key>
+			<string>World&apos;s Most Experienced Airline</string>
+			<key>open letter</key>
+			<string>P _ _   A _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>jetblue</string>
+				<string>jetblue airways corporation</string>
+				<string>jetblue airways</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1533</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0r1j.png</string>
+			<key>hint</key>
+			<string>You Above All</string>
+			<key>open letter</key>
+			<string>J _ _ B _ _ E</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>jeep</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1458</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>098j.png</string>
+			<key>hint</key>
+			<string>I live. I ride. I am.</string>
+			<key>open letter</key>
+			<string>_ _ E _</string>
+			<key>distFalse</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>hummer</string>
+				<string>hummer h3</string>
+				<string>h3</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1457</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0x8j.png</string>
+			<key>hint</key>
+			<string>Like nothing else</string>
+			<key>open letter</key>
+			<string>_ U _ M _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>tamagotchi</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1369</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0j5j.png</string>
+			<key>hint</key>
+			<string>Handheld digital pet</string>
+			<key>open letter</key>
+			<string>T _ _ A G _ _ _ H _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>wikipedia</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1589</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0cuj.png</string>
+			<key>hint</key>
+			<string>The free Encyclopedia</string>
+			<key>open letter</key>
+			<string>W _ _ I _ _ D I _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>new balance</string>
+				<string>nbas</string>
+				<string>new balance athletic shoe, inc.</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1440</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0b8j.png</string>
+			<key>hint</key>
+			<string>Steve Jobs&apos; shoes</string>
+			<key>open letter</key>
+			<string>N _ _   B A _ _ _ C _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>spalding</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1502</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>04cj.png</string>
+			<key>hint</key>
+			<string>NBA official game ball</string>
+			<key>open letter</key>
+			<string>_ P A _ _ I _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>burberry</string>
+				<string>burberry group plc</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1333</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0jjj.png</string>
+			<key>hint</key>
+			<string>British luxury fashion house</string>
+			<key>open letter</key>
+			<string>B _ _ _ E _ _ Y</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>victoria&apos;s secret</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1225</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0j0.png</string>
+			<key>hint</key>
+			<string>Lingerie</string>
+			<key>open letter</key>
+			<string>V _ _ _ _ _ I _ &apos; S   _ E _ _ E T</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>longchamp</string>
+				<string>le pliage</string>
+				<string>longchamp le pliage</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1247</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>060.png</string>
+			<key>hint</key>
+			<string>Foldable travel bags made of vinyl and leather trim.</string>
+			<key>open letter</key>
+			<string>L _ _ _ C _ A _ P</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>tiffany &amp; co.</string>
+				<string>tiffany</string>
+				<string>tiffany&apos;s</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1262</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>05i.png</string>
+			<key>hint</key>
+			<string>What makes love true</string>
+			<key>open letter</key>
+			<string>_ _ F _ _ N _   &amp;   C O .</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>guinness</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1283</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>06i.png</string>
+			<key>hint</key>
+			<string>Good Things Come To Those Who Wait</string>
+			<key>open letter</key>
+			<string>_ _ I N _ _ S _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>vitamin water</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1351</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0ejj.png</string>
+			<key>hint</key>
+			<string>Hydration for every occasion</string>
+			<key>open letter</key>
+			<string>V _ _ A _ I _   W _ _ _ R</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>martell</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1469</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0o8j.png</string>
+			<key>hint</key>
+			<string>A manufacturer of cognac</string>
+			<key>open letter</key>
+			<string>_ A _ _ E L _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>moet &amp; chandon</string>
+				<string>moet</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1331</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0ibj.png</string>
+			<key>hint</key>
+			<string>Champagne</string>
+			<key>open letter</key>
+			<string>M _ _ _   &amp;   C _ A _ _ _ N</string>
+			<key>distFalse</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>time</string>
+				<string>time magazine</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1367</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0ijj.png</string>
+			<key>hint</key>
+			<string>American weekly news magazine</string>
+			<key>open letter</key>
+			<string>_ _ M _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>wired</string>
+				<string>wired magazine</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1365</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0djj.png</string>
+			<key>hint</key>
+			<string>Magazine about new and developing technology</string>
+			<key>open letter</key>
+			<string>_ I R _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>monocle</string>
+				<string>monocle magazine</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1364</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0pjj.png</string>
+			<key>hint</key>
+			<string>A briefing on global affairs, business, culture &amp; design</string>
+			<key>open letter</key>
+			<string>_ O _ O _ _ E</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>usa today</string>
+				<string>usa today newspaper</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1385</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0x5j.png</string>
+			<key>hint</key>
+			<string>A national American daily newspaper</string>
+			<key>open letter</key>
+			<string>_ S _   T _ _ A _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>sun-maid</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1370</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>055j.png</string>
+			<key>hint</key>
+			<string>Raisins</string>
+			<key>open letter</key>
+			<string>S _ _ - M _ _ D</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>skittles</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1321</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0nbj.png</string>
+			<key>hint</key>
+			<string>Taste the Rainbow!</string>
+			<key>open letter</key>
+			<string>S _ _ _ T _ E _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>vegemite</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1362</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0yjj.png</string>
+			<key>hint</key>
+			<string>Marmite but Parwill</string>
+			<key>open letter</key>
+			<string>V _ _ E M _ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>marmite</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1551</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>072j.png</string>
+			<key>hint</key>
+			<string>You either love it or hate it.</string>
+			<key>open letter</key>
+			<string>M _ R _ I _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>jambox</string>
+				<string>jawbone jambox</string>
+				<string>jawbone</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1490</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0tcj.png</string>
+			<key>hint</key>
+			<string>Best sounding wireless speaker and speakerphone on the planet.</string>
+			<key>open letter</key>
+			<string>J _ _ _ O _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>leica</string>
+				<string>leica camera</string>
+				<string>leica camera ag</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1405</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0j7j.png</string>
+			<key>hint</key>
+			<string>A German optics company</string>
+			<key>open letter</key>
+			<string>L _ _ _ A</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>ziiiro</string>
+				<string>ziiiro gravity</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1403</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0i5j.png</string>
+			<key>hint</key>
+			<string>Unique wrist watches, founded by Robert &amp; Derick</string>
+			<key>open letter</key>
+			<string>_ _ I I _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>moleskine</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1237</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0m0.png</string>
+			<key>hint</key>
+			<string>Legendary notebooks</string>
+			<key>open letter</key>
+			<string>M _ _ E S _ I _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>nando&apos;s</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1424</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0q7j.png</string>
+			<key>hint</key>
+			<string>Peri-peri</string>
+			<key>open letter</key>
+			<string>_ _ N _ _ &apos; S</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>kfc</string>
+				<string>kentucky fried chicken</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1209</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0rd.png</string>
+			<key>hint</key>
+			<string>Finger lickin&apos; good!</string>
+			<key>open letter</key>
+			<string>_ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>milky way</string>
+				<string>milky way bar</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1381</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0m5j.png</string>
+			<key>hint</key>
+			<string>Comfort in every bar.</string>
+			<key>open letter</key>
+			<string>_ _ L _ Y   _ A _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>nestle crunch</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1421</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0x7j.png</string>
+			<key>hint</key>
+			<string>Even more scrumptious</string>
+			<key>open letter</key>
+			<string>N E _ T _ _   _ _ U N _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>rubik&apos;s cube</string>
+				<string>rubik</string>
+				<string>magic cube</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1413</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0w7j.png</string>
+			<key>hint</key>
+			<string>World&apos;s Top Selling Puzzle Game</string>
+			<key>open letter</key>
+			<string>_ _ B _ _ &apos; S   _ _ B E</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>slinky</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1412</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0u7j.png</string>
+			<key>hint</key>
+			<string>Original spring walking toy</string>
+			<key>open letter</key>
+			<string>_ _ I N _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>view-master</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1514</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>051j.png</string>
+			<key>hint</key>
+			<string>Reel 3D Fun</string>
+			<key>open letter</key>
+			<string>V _ _ W - _ _ _ T _ R</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>panerai</string>
+				<string>officine panerai marketing e communicazioni srl</string>
+				<string>officine panerai</string>
+				<string>panerai luminor</string>
+				<string>luminor</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1575</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0f2j.png</string>
+			<key>hint</key>
+			<string>Italian luxury watches</string>
+			<key>open letter</key>
+			<string>_ _ N _ R _ I</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>kleenex</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1571</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>062j.png</string>
+			<key>hint</key>
+			<string>Tissues</string>
+			<key>open letter</key>
+			<string>_ L _ _ _ E X</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>nudie jeans</string>
+				<string>nudie jeans co</string>
+				<string>nudie</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1167</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>03p.png</string>
+			<key>hint</key>
+			<string>The naked truth about denim</string>
+			<key>open letter</key>
+			<string>N _ _ I _   _ _ _ N S</string>
+			<key>distFalse</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>nasa</string>
+				<string>national aeronautics and space administration</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1258</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>000.png</string>
+			<key>hint</key>
+			<string>America&apos;s space agency</string>
+			<key>open letter</key>
+			<string>N _ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>london underground</string>
+				<string>the underground</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1581</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0d2j.png</string>
+			<key>hint</key>
+			<string>Rapid transit system in the United Kingdom</string>
+			<key>open letter</key>
+			<string>L _ _ D O _   _ _ D _ R _ _ _ _ N D</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+	</array>
+	<key>3</key>
+	<array>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>oreo</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1166</string>
+			<key>distTrue</key>
+			<integer>0</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0tp.png</string>
+			<key>hint</key>
+			<string>Twist Lick Dunk</string>
+			<key>open letter</key>
+			<string>_ _ E _</string>
+			<key>distFalse</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>gatorade</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1240</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0h0.png</string>
+			<key>hint</key>
+			<string>Be like Mike</string>
+			<key>open letter</key>
+			<string>G _ _ O _ _ D _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>slurpee</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1467</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0f8j.png</string>
+			<key>hint</key>
+			<string>7-eleven</string>
+			<key>open letter</key>
+			<string>S _ _ R _ E _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>lay&apos;s</string>
+				<string>walkers</string>
+				<string>chipsy</string>
+				<string>poca</string>
+				<string>tapuchips</string>
+				<string>sabritas</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1221</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0dd.png</string>
+			<key>hint</key>
+			<string>Do us a flavor</string>
+			<key>open letter</key>
+			<string>_ A _ &apos; _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>converse</string>
+				<string>cons</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1489</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0mcj.png</string>
+			<key>hint</key>
+			<string>Chuck Taylor</string>
+			<key>open letter</key>
+			<string>C _ _ V _ _ S _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>visa</string>
+				<string>visa international service association incorporation</string>
+				<string>visa inc.</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1329</string>
+			<key>distTrue</key>
+			<integer>0</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0dbj.png</string>
+			<key>hint</key>
+			<string>More people go with it</string>
+			<key>open letter</key>
+			<string>_ I _ _</string>
+			<key>distFalse</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>doublemint</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1434</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0y7j.png</string>
+			<key>hint</key>
+			<string>Double Your Pleasure, Double Your Fun</string>
+			<key>open letter</key>
+			<string>_ _ U B _ E _ _ N _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>reese&apos;s</string>
+				<string>reese&apos;s peanut butter cups</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1432</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0k7j.png</string>
+			<key>hint</key>
+			<string>The perfect combination of chocolate and peanut butter.</string>
+			<key>open letter</key>
+			<string>R _ _ _ _ &apos; S</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>taco bell</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1429</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0n7j.png</string>
+			<key>hint</key>
+			<string>Live Mas</string>
+			<key>open letter</key>
+			<string>_ A _ _   B _ _ L</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>burger king</string>
+				<string>bk</string>
+				<string>burger king corporation</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1171</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0ep.png</string>
+			<key>hint</key>
+			<string>Have it your way</string>
+			<key>open letter</key>
+			<string>_ U _ _ _ R   K _ N _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>heineken</string>
+				<string>heineken lager beer</string>
+				<string>heineken pilsener</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1375</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>025j.png</string>
+			<key>hint</key>
+			<string>Open your world</string>
+			<key>open letter</key>
+			<string>H _ _ _ E _ _ N</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>carlsberg</string>
+				<string>carlsberg group</string>
+				<string>carlsberg a/s</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1425</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0r7j.png</string>
+			<key>hint</key>
+			<string>Danish brewing company</string>
+			<key>open letter</key>
+			<string>C _ R _ _ _ _ R G</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>faber-castell</string>
+				<string>faber-castell ag</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1309</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0mbj.png</string>
+			<key>hint</key>
+			<string>Produce art materials and writing instruments</string>
+			<key>open letter</key>
+			<string>F A _ _ _ - C _ S _ E _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>staedtler</string>
+				<string>staedtler mars gmbh &amp; co. kg</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1302</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>01bj.png</string>
+			<key>hint</key>
+			<string>Fine writing instruments company</string>
+			<key>open letter</key>
+			<string>S _ _ E D _ _ _ R</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>ikea</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1305</string>
+			<key>distTrue</key>
+			<integer>0</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0wbj.png</string>
+			<key>hint</key>
+			<string>International home products company that designs and sells ready-to-assemble furniture.</string>
+			<key>open letter</key>
+			<string>_ _ E _</string>
+			<key>distFalse</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>walmart</string>
+				<string>wal-mart stores, inc.</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1466</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>048j.png</string>
+			<key>hint</key>
+			<string>Save money live better</string>
+			<key>open letter</key>
+			<string>W _ _ _ _ R T</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>baskin-robbins</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1304</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0ubj.png</string>
+			<key>hint</key>
+			<string>31 Flavors</string>
+			<key>open letter</key>
+			<string>B _ _ K I _ - R _ _ _ _ _ S</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>ben &amp; jerry&apos;s</string>
+				<string>ben &amp; jerry&apos;s ice cream</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1344</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0ljj.png</string>
+			<key>hint</key>
+			<string>American ice cream company</string>
+			<key>open letter</key>
+			<string>B _ _   &amp;   _ E _ _ Y &apos; S</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>haagen-dazs</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1303</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>02bj.png</string>
+			<key>hint</key>
+			<string>Made like no other</string>
+			<key>open letter</key>
+			<string>H _ A _ _ N - _ A _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>blizzard</string>
+				<string>dairy queen</string>
+				<string>dq</string>
+				<string>blizzard treat</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1402</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>005j.png</string>
+			<key>hint</key>
+			<string>So Good It&apos;s Ridqulous</string>
+			<key>open letter</key>
+			<string>B L _ _ _ _ R _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>havaianas</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1342</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0ajj.png</string>
+			<key>hint</key>
+			<string>Brazilian flip-flops</string>
+			<key>open letter</key>
+			<string>H _ _ _ I A _ _ S</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>hush puppies</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1513</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0j1j.png</string>
+			<key>hint</key>
+			<string>The classic American brushed-suede shoes</string>
+			<key>open letter</key>
+			<string>H _ _ _   _ U _ P _ E _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>skullcandy</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1243</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0e0.png</string>
+			<key>hint</key>
+			<string>Supreme sound experience</string>
+			<key>open letter</key>
+			<string>_ K _ L _ _ A _ D _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>salvatore ferragamo</string>
+				<string>ferragamo</string>
+				<string>salvatore ferragamo italia s.p.a.</string>
+				<string>salvatore ferragamo s.p.a.</string>
+				<string>salvatore</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1249</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0n0.png</string>
+			<key>hint</key>
+			<string>Italian luxury goods company</string>
+			<key>open letter</key>
+			<string>S _ L _ _ T O _ _   _ E _ _ A _ _ M O</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>smart</string>
+				<string>smart automobile</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1315</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0ebj.png</string>
+			<key>hint</key>
+			<string>Uncar</string>
+			<key>open letter</key>
+			<string>_ M _ _ T</string>
+			<key>distFalse</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>bmw</string>
+				<string>bavarian motor works</string>
+				<string>bayerische motoren werke ag</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1401</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0d5j.png</string>
+			<key>hint</key>
+			<string>The ultimate driving machine</string>
+			<key>open letter</key>
+			<string>_ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>mercedes-benz</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1287</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0fi.png</string>
+			<key>hint</key>
+			<string>The best or nothing</string>
+			<key>open letter</key>
+			<string>_ _ R _ E D E _ - _ _ N _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>rolls-royce</string>
+				<string>rolls-royce phantom</string>
+				<string>phantom</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1501</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0ncj.png</string>
+			<key>hint</key>
+			<string>At 60 miles an hour the loudest noise in it comes from the electric clock.</string>
+			<key>open letter</key>
+			<string>R _ _ _ S - _ _ Y _ E</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>rexona</string>
+				<string>sure</string>
+				<string>degree</string>
+				<string>rexena</string>
+				<string>shield</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1585</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0juj.png</string>
+			<key>hint</key>
+			<string>Deodorant</string>
+			<key>open letter</key>
+			<string>_ E _ _ _ A</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>sunsilk</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1587</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>07uj.png</string>
+			<key>hint</key>
+			<string>Expert-touched hair</string>
+			<key>open letter</key>
+			<string>_ U _ _ I _ K</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>unilever</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1392</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0g5j.png</string>
+			<key>hint</key>
+			<string>Consumer goods company</string>
+			<key>open letter</key>
+			<string>_ N I _ E _ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>opi</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1416</string>
+			<key>distTrue</key>
+			<integer>0</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0l7j.png</string>
+			<key>hint</key>
+			<string>Blushingham Palace</string>
+			<key>open letter</key>
+			<string>_ _ _</string>
+			<key>distFalse</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>national geographic</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1186</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>00p.png</string>
+			<key>hint</key>
+			<string>Inspiring people to care about the planet</string>
+			<key>open letter</key>
+			<string>N _ T _ _ _ A _   _ E _ G R _ _ _ I C</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>play-doh</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1310</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0tbj.png</string>
+			<key>hint</key>
+			<string>Fun to play with, not to eat.</string>
+			<key>open letter</key>
+			<string>P _ _ Y - _ _ H</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>montblanc</string>
+				<string>montblanc international gmbh</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1593</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0wuj.png</string>
+			<key>hint</key>
+			<string>Luxury writing instruments made in Germany</string>
+			<key>open letter</key>
+			<string>M _ _ T _ L _ _ C</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>ray-ban</string>
+				<string>ray-ban wayfarer</string>
+				<string>wayfarer</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1414</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0a7j.png</string>
+			<key>hint</key>
+			<string>Sunglasses</string>
+			<key>open letter</key>
+			<string>_ A _ - _ _ N</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>air force one</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1529</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0x1j.png</string>
+			<key>hint</key>
+			<string>POTUS&apos; aircraft</string>
+			<key>open letter</key>
+			<string>A _ _   F _ _ C E   _ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>ups</string>
+				<string>united parcel service, inc.</string>
+				<string>united parcel service</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1544</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0p1j.png</string>
+			<key>hint</key>
+			<string>We ❤ Logistics</string>
+			<key>open letter</key>
+			<string>_ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>vans</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1549</string>
+			<key>distTrue</key>
+			<integer>0</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0j2j.png</string>
+			<key>hint</key>
+			<string>Off the Wall</string>
+			<key>open letter</key>
+			<string>_ _ N _</string>
+			<key>distFalse</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>minolta</string>
+				<string>minolta co., ltd.</string>
+				<string>konica minolta</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1570</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0v2j.png</string>
+			<key>hint</key>
+			<string>Giving Shape to Ideas</string>
+			<key>open letter</key>
+			<string>_ I _ O _ _ A</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>pocari sweat</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1290</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0yi.png</string>
+			<key>hint</key>
+			<string>Ion supply drink</string>
+			<key>open letter</key>
+			<string>P _ _ _ R _   _ W _ _ T</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>wendy&apos;s</string>
+				<string>wendy&apos;s old fashioned hamburgers</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1426</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0v7j.png</string>
+			<key>hint</key>
+			<string>Quality is our recipe</string>
+			<key>open letter</key>
+			<string>W _ _ _ _ &apos; S</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>twix</string>
+				<string>raider</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1399</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0z5j.png</string>
+			<key>hint</key>
+			<string>Two for me, none for you</string>
+			<key>open letter</key>
+			<string>_ W _ _</string>
+			<key>distFalse</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>knorr</string>
+				<string>knorr chicken stock</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1584</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0buj.png</string>
+			<key>hint</key>
+			<string>Dehydrated soup mixes and condiments</string>
+			<key>open letter</key>
+			<string>_ N _ R _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>metro-goldwyn-mayer</string>
+				<string>metro-goldwyn-mayer pictures</string>
+				<string>mgm</string>
+				<string>metro-goldwyn-mayer studios inc.</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1558</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0a2j.png</string>
+			<key>hint</key>
+			<string>Ars Gratia Artis</string>
+			<key>open letter</key>
+			<string>_ E T _ _ - G O _ _ W _ _ - M _ _ _ R</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>nbc</string>
+				<string>national broadcasting company</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1563</string>
+			<key>distTrue</key>
+			<integer>0</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>032j.png</string>
+			<key>hint</key>
+			<string>Every Day is Full of Color.</string>
+			<key>open letter</key>
+			<string>_ _ _</string>
+			<key>distFalse</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>grammy award</string>
+				<string>gramophone award</string>
+				<string>grammy</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1546</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>001j.png</string>
+			<key>hint</key>
+			<string>The world is listening</string>
+			<key>open letter</key>
+			<string>_ _ A _ _ _   A W _ _ D</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>academy awards</string>
+				<string>the oscars</string>
+				<string>oscars</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1547</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0i1j.png</string>
+			<key>hint</key>
+			<string>Awards given annually for excellence of cinematic achievements</string>
+			<key>open letter</key>
+			<string>_ C _ D E _ Y   _ _ _ _ D _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+	</array>
+	<key>1</key>
+	<array>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>michelin</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1168</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0hp.png</string>
+			<key>hint</key>
+			<string>A better way forward</string>
+			<key>open letter</key>
+			<string>_ I _ _ _ L _ N</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>mcdonald&apos;s</string>
+				<string>mcdonald&apos;s corporation</string>
+				<string>mcd</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1170</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>09p.png</string>
+			<key>hint</key>
+			<string>I&apos;m lovin it</string>
+			<key>open letter</key>
+			<string>_ C _ O _ _ L D &apos; _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>pringles</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1172</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0qp.png</string>
+			<key>hint</key>
+			<string>Once you pop you can&apos;t stop</string>
+			<key>open letter</key>
+			<string>P _ _ N _ _ E _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>adidas</string>
+				<string>adidas ag</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1173</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0rp.png</string>
+			<key>hint</key>
+			<string>Impossible is nothing.</string>
+			<key>open letter</key>
+			<string>A _ I _ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>domino&apos;s pizza</string>
+				<string>domino&apos;s</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1177</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0np.png</string>
+			<key>hint</key>
+			<string>You got 30 minutes</string>
+			<key>open letter</key>
+			<string>D _ M _ _ O &apos; _   _ I _ _ A</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>nickelodeon</string>
+				<string>nick</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1179</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0fp.png</string>
+			<key>hint</key>
+			<string>American children&apos;s channel</string>
+			<key>open letter</key>
+			<string>_ I _ _ E _ _ D _ _ N</string>
+			<key>distFalse</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>red bull</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1183</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0zp.png</string>
+			<key>hint</key>
+			<string>Gives you wings</string>
+			<key>open letter</key>
+			<string>_ E _   _ U _ L</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>coca-cola</string>
+				<string>coke</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1184</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0pp.png</string>
+			<key>hint</key>
+			<string>Happiness Factory</string>
+			<key>open letter</key>
+			<string>_ O _ A - _ O _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>louis vuitton</string>
+				<string>louis vuitton malletier</string>
+				<string>lv</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1187</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0ip.png</string>
+			<key>hint</key>
+			<string>Damier</string>
+			<key>open letter</key>
+			<string>L _ _ I _   _ U _ _ T _ N</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>lego</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1191</string>
+			<key>distTrue</key>
+			<integer>0</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>07d.png</string>
+			<key>hint</key>
+			<string>Interlocking plastic bricks</string>
+			<key>open letter</key>
+			<string>_ E _ _</string>
+			<key>distFalse</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>heinz</string>
+				<string>heinz tomato ketchup</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1196</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0ud.png</string>
+			<key>hint</key>
+			<string>57 Varieties</string>
+			<key>open letter</key>
+			<string>_ E _ N _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>chupa chups</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1200</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0ld.png</string>
+			<key>hint</key>
+			<string>Lollipop</string>
+			<key>open letter</key>
+			<string>_ H _ _ A   C H _ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>m&amp;m&apos;s</string>
+				<string>m&amp;m</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1212</string>
+			<key>distTrue</key>
+			<integer>0</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0gd.png</string>
+			<key>hint</key>
+			<string>Colorful button-shaped candies</string>
+			<key>open letter</key>
+			<string>_ &amp; _ &apos; _</string>
+			<key>distFalse</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>singapore airlines</string>
+				<string>singapore airlines limited</string>
+				<string>sq</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1263</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>07i.png</string>
+			<key>hint</key>
+			<string>The World&apos;s Top Airlines</string>
+			<key>open letter</key>
+			<string>_ I N _ _ P _ R _   _ _ R _ I N _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>mini</string>
+				<string>mini cooper</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1510</string>
+			<key>distTrue</key>
+			<integer>0</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>00cj.png</string>
+			<key>hint</key>
+			<string>A small economy car</string>
+			<key>open letter</key>
+			<string>_ I _ _</string>
+			<key>distFalse</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>target</string>
+				<string>target corporation</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1518</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>011j.png</string>
+			<key>hint</key>
+			<string>Expect more pay less</string>
+			<key>open letter</key>
+			<string>T _ R _ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+	</array>
+	<key>2</key>
+	<array>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>pepsi</string>
+				<string>pepsico</string>
+				<string>pepsico inc.</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1185</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0dp.png</string>
+			<key>hint</key>
+			<string>Brad&apos;s Drink</string>
+			<key>open letter</key>
+			<string>_ E _ _ I</string>
+			<key>distFalse</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>levi&apos;s</string>
+				<string>levi</string>
+				<string>levi strauss &amp; co.</string>
+				<string>ls&amp;co</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1165</string>
+			<key>distTrue</key>
+			<integer>0</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0mp.png</string>
+			<key>hint</key>
+			<string>Go Forth</string>
+			<key>open letter</key>
+			<string>_ E _ I &apos; _</string>
+			<key>distFalse</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>nike</string>
+				<string>nike, inc.</string>
+				<string>nike air force 1</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1182</string>
+			<key>distTrue</key>
+			<integer>0</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0yp.png</string>
+			<key>hint</key>
+			<string>Blue Ribbon Sports</string>
+			<key>open letter</key>
+			<string>N _ _ _</string>
+			<key>distFalse</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>lucky strike</string>
+				<string>luckies</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1192</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>08d.png</string>
+			<key>hint</key>
+			<string>Original Red</string>
+			<key>open letter</key>
+			<string>_ U _ _ Y   _ T _ _ _ E</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>swatch</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1317</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0rbj.png</string>
+			<key>hint</key>
+			<string>Swiss made, plastic watch</string>
+			<key>open letter</key>
+			<string>S _ A _ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>campbell&apos;s</string>
+				<string>campbell&apos;s soup</string>
+				<string>campbell soup company</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1197</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0wd.png</string>
+			<key>hint</key>
+			<string>Andy Warhol&apos;s painting</string>
+			<key>open letter</key>
+			<string>_ A _ P _ _ _ L &apos; S</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>cheetos</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1203</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>03d.png</string>
+			<key>hint</key>
+			<string>Chester Cheetah</string>
+			<key>open letter</key>
+			<string>C _ _ E _ _ S</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>crayola</string>
+				<string>crayola crayons</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1307</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0sbj.png</string>
+			<key>hint</key>
+			<string>Inspire everything imaginable</string>
+			<key>open letter</key>
+			<string>C _ A _ _ _ A</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>pixar</string>
+				<string>pixar animation studios</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1181</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0op.png</string>
+			<key>hint</key>
+			<string>Computer animation film studio</string>
+			<key>open letter</key>
+			<string>_ I _ A _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>7-eleven</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1543</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0z1j.png</string>
+			<key>hint</key>
+			<string>Oh thank Heaven!</string>
+			<key>open letter</key>
+			<string>7 - _ _ _ V _ N</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>kodak</string>
+				<string>eastman kodak</string>
+				<string>eastman kodak company</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1194</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>01d.png</string>
+			<key>hint</key>
+			<string>Best known for photographic film products</string>
+			<key>open letter</key>
+			<string>_ O _ A _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>stabilo</string>
+				<string>schwan-stabilo</string>
+				<string>stabilo boss</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1379</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0s5j.png</string>
+			<key>hint</key>
+			<string>Highlighter</string>
+			<key>open letter</key>
+			<string>S _ _ _ I L _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>nutella</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1202</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0td.png</string>
+			<key>hint</key>
+			<string>Chocolate hazelnut spread</string>
+			<key>open letter</key>
+			<string>_ U _ E _ L _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>the coffee bean &amp; tea leaf</string>
+				<string>the coffee bean</string>
+				<string>coffee bean</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1380</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0l5j.png</string>
+			<key>hint</key>
+			<string>Carefully nurtured from seed to cup</string>
+			<key>open letter</key>
+			<string>_ _ E   _ O _ F _ E   B _ A N   &amp;   _ E _   _ E _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>puma</string>
+				<string>puma se</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1224</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0b0.png</string>
+			<key>hint</key>
+			<string>Adaptive Running</string>
+			<key>open letter</key>
+			<string>_ U _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>axe</string>
+				<string>lynx</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1226</string>
+			<key>distTrue</key>
+			<integer>0</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>050.png</string>
+			<key>hint</key>
+			<string>Helps guys look, smell &amp; feel their best.</string>
+			<key>open letter</key>
+			<string>_ _ _</string>
+			<key>distFalse</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>doritos</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1234</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0a0.png</string>
+			<key>hint</key>
+			<string>Tortilla chips</string>
+			<key>open letter</key>
+			<string>_ O R _ T _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>crocs</string>
+				<string>crocs, inc.</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1281</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0ri.png</string>
+			<key>hint</key>
+			<string>Casual footwear</string>
+			<key>open letter</key>
+			<string>C _ _ _ S</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>jaguar</string>
+				<string>jaguar cars</string>
+				<string>jaguar land rover ltd</string>
+				<string>jaguar land rover limited</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1286</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>04i.png</string>
+			<key>hint</key>
+			<string>A British multinational car manufacturer</string>
+			<key>open letter</key>
+			<string>J _ _ U _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>post-it</string>
+				<string>post-it note</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1289</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0oi.png</string>
+			<key>hint</key>
+			<string>3M</string>
+			<key>open letter</key>
+			<string>P _ _ _ - I _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>zippo</string>
+				<string>zippo manufacturing company</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1293</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0di.png</string>
+			<key>hint</key>
+			<string>Lighter</string>
+			<key>open letter</key>
+			<string>_ I _ P _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>dove</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1419</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>037j.png</string>
+			<key>hint</key>
+			<string>Real beauty</string>
+			<key>open letter</key>
+			<string>_ O _ _</string>
+			<key>distFalse</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>johnnie walker</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1298</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>05bj.png</string>
+			<key>hint</key>
+			<string>A brand of Scotch Whisky</string>
+			<key>open letter</key>
+			<string>_ _ H _ N _ E   _ _ L K _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>monster energy</string>
+				<string>monster</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1314</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>09bj.png</string>
+			<key>hint</key>
+			<string>Unleash the Beast!</string>
+			<key>open letter</key>
+			<string>_ O N _ _ E _   E N _ _ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>nokia 5110</string>
+				<string>nokia</string>
+				<string>5110</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1537</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0n1j.png</string>
+			<key>hint</key>
+			<string>Connecting People</string>
+			<key>open letter</key>
+			<string>_ _ K _ A   _ 1 1 _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>duracell</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1318</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0vbj.png</string>
+			<key>hint</key>
+			<string>Lasts Longer Much Longer</string>
+			<key>open letter</key>
+			<string>D _ _ A _ E _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>skippy</string>
+				<string>skippy creamy</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1323</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0fbj.png</string>
+			<key>hint</key>
+			<string>Peanut butter</string>
+			<key>open letter</key>
+			<string>S _ _ P _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>quaker oats</string>
+				<string>quaker oats company</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1372</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>085j.png</string>
+			<key>hint</key>
+			<string>Helps remove cholesterol</string>
+			<key>open letter</key>
+			<string>_ U _ K _ _   O _ _ S</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>pampers</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1391</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>065j.png</string>
+			<key>hint</key>
+			<string>Baby products</string>
+			<key>open letter</key>
+			<string>_ _ M _ E _ S</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>volkswagen type 2</string>
+				<string>volkswagen</string>
+				<string>vw</string>
+				<string>vw type 2</string>
+				<string>type 2</string>
+				<string>volkswagen bus</string>
+				<string>volkswagen camper</string>
+				<string>volkswagen delivery van</string>
+				<string>volkswagen kombi</string>
+				<string>volkswagen microbus</string>
+				<string>volkswagen transporter</string>
+				<string>transporter</string>
+				<string>kombi</string>
+				<string>microbus</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1396</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0k5j.png</string>
+			<key>hint</key>
+			<string>Das Auto</string>
+			<key>open letter</key>
+			<string>V _ L _ S _ A G _ _   _ Y _ _   _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>vicks vaporub</string>
+				<string>vicks</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1417</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0m7j.png</string>
+			<key>hint</key>
+			<string>A mentholated topical cream</string>
+			<key>open letter</key>
+			<string>V _ C _ _   _ _ P _ R _ B</string>
+			<key>distFalse</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>fifa world cup</string>
+				<string>world cup</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1452</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0l8j.png</string>
+			<key>hint</key>
+			<string>An international association football competition</string>
+			<key>open letter</key>
+			<string>_ I _ A   _ O _ L _   _ _ P</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>american express</string>
+				<string>amex</string>
+				<string>american express company</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1454</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0t8j.png</string>
+			<key>hint</key>
+			<string>Credit card, charge card, and traveler&apos;s cheque businesses</string>
+			<key>open letter</key>
+			<string>_ M E _ _ C A _   _ _ P R _ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>budweiser</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1356</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0gjj.png</string>
+			<key>hint</key>
+			<string>Wassup</string>
+			<key>open letter</key>
+			<string>B _ D _ _ I _ _ R</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>nescafe</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1420</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0h7j.png</string>
+			<key>hint</key>
+			<string>Great ideas come from great coffee</string>
+			<key>open letter</key>
+			<string>N E _ _ _ F _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>ring pop</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1438</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>007j.png</string>
+			<key>hint</key>
+			<string>Ring shaped fruit flavored lollipops</string>
+			<key>open letter</key>
+			<string>R _ _ G   _ O _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>cadbury</string>
+				<string>cadbury dairy milk bar</string>
+				<string>dairy milk bar</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1299</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>07bj.png</string>
+			<key>hint</key>
+			<string>Chocolate bar</string>
+			<key>open letter</key>
+			<string>C _ D _ _ R _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>kit kat</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1423</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0e7j.png</string>
+			<key>hint</key>
+			<string>Have a break!</string>
+			<key>open letter</key>
+			<string>_ _ T   K _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>snickers</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1231</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>020.png</string>
+			<key>hint</key>
+			<string>You&apos;re Not You When You&apos;re Hungry</string>
+			<key>open letter</key>
+			<string>_ N _ _ K E _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>kinder surprise</string>
+				<string>kinder egg</string>
+				<string>kinder sorpresa</string>
+				<string>kinder</string>
+				<string>kinder chocolate</string>
+				<string>kinder joy</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1359</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0fjj.png</string>
+			<key>hint</key>
+			<string>A chocolate egg containing a small toy</string>
+			<key>open letter</key>
+			<string>K I _ _ _ R   _ _ R _ _ _ S E</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>nfl</string>
+				<string>national football league</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1471</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0z8j.png</string>
+			<key>hint</key>
+			<string>American football</string>
+			<key>open letter</key>
+			<string>_ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>warner bros.</string>
+				<string>warner bros. entertainment, inc.</string>
+				<string>warner bros. pictures</string>
+				<string>warner bros</string>
+				<string>warner brothers </string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1477</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0jcj.png</string>
+			<key>hint</key>
+			<string>An American producer of film, television, and music entertainment.</string>
+			<key>open letter</key>
+			<string>_ A R N _ _   _ _ O _ .</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>toms</string>
+				<string>toms shoes</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1495</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0ecj.png</string>
+			<key>hint</key>
+			<string>One for one</string>
+			<key>open letter</key>
+			<string>_ _ M _</string>
+			<key>distFalse</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>harley-davidson</string>
+				<string>harley-davidson motor company</string>
+				<string>harley-davidson motor cycles</string>
+				<string>harley-davidson inc</string>
+				<string>h-d</string>
+				<string>harley</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1505</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0ocj.png</string>
+			<key>hint</key>
+			<string>Screw it. Let&apos;s Ride.</string>
+			<key>open letter</key>
+			<string>_ A _ L _ _ - _ _ V I D _ _ N</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>british airways</string>
+				<string>ba</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1530</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>091j.png</string>
+			<key>hint</key>
+			<string>To Fly. To Serve.</string>
+			<key>open letter</key>
+			<string>B _ I _ _ _ H   _ I _ _ A Y _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>qantas</string>
+				<string>qantas airways limited</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1532</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0q1j.png</string>
+			<key>hint</key>
+			<string>Spirit of Australia</string>
+			<key>open letter</key>
+			<string>_ A _ T _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>usb</string>
+				<string>universal serial bus</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1553</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>0c2j.png</string>
+			<key>hint</key>
+			<string>Connection, communication and power supply between computers and electronic devices</string>
+			<key>open letter</key>
+			<string>_ _ _</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<array>
+				<string>dolby</string>
+				<string>dolby digital</string>
+				<string>dolby surround</string>
+			</array>
+			<key>hasWallpaper</key>
+			<integer>1</integer>
+			<key>id</key>
+			<string>1566</string>
+			<key>distTrue</key>
+			<integer>1</integer>
+			<key>linkURL</key>
+			<string></string>
+			<key>image</key>
+			<string>092j.png</string>
+			<key>hint</key>
+			<string>Audio compression technologies</string>
+			<key>open letter</key>
+			<string>D _ _ _ Y</string>
+			<key>distFalse</key>
+			<integer>3</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
