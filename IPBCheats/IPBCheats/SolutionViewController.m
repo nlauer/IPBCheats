@@ -11,15 +11,16 @@
 #import "AppDelegate.h"
 #import "BoardView.h"
 
-@interface SolutionViewController ()
+@interface SolutionViewController () <UIScrollViewDelegate>
 @property (strong, nonatomic) NSString *level;
 @property (strong, nonatomic) NSArray *solutions;
+@property (strong, nonatomic) UIPageControl *pageControl;
 @end
 
 @implementation SolutionViewController
 
 - (id)initWithLevel:(NSString *)level {
-    self = [super initWithStyle:UITableViewStylePlain];
+    self = [super init];
     if (self) {
         // Custom initialization
 
@@ -36,11 +37,33 @@
 
     _solutions = [[AppDelegate appDelegate] getAllAnswersForLevel:_level];
 
-    UIView *backgroundView = [[UIView alloc] initWithFrame:self.tableView.frame];
-    [backgroundView setBackgroundColor:[UIColor darkGrayColor]];
-    self.tableView.backgroundView = backgroundView;
-    [self.tableView setSeparatorColor:[UIColor darkGrayColor]];
-    [self.tableView setSeparatorStyle:UITableViewCellSeparatorStyleSingleLine];
+    [self.view setBackgroundColor:[UIColor darkGrayColor]];
+
+    UIScrollView *scrollView = [[UIScrollView alloc] initWithFrame:self.view.frame];
+    [scrollView setBackgroundColor:[UIColor darkGrayColor]];
+    [scrollView setContentSize:CGSizeMake(self.view.frame.size.width * [_solutions count] / 16, self.view.frame.size.height)];
+    [scrollView setPagingEnabled:YES];
+    [scrollView showsHorizontalScrollIndicator];
+    [scrollView alwaysBounceHorizontal];
+    [scrollView setBounces:YES];
+    [scrollView setDelegate:self];
+
+    for (int i = 0; i < [_solutions count] / 16; i++) {
+        BoardView *boardView = [[BoardView alloc] initWithAnswers:_solutions batchNumber:i];
+        float centerX = self.view.frame.size.width/2 + self.view.frame.size.width * i;
+        int offCenter = (self.view.frame.size.height > 480) ? 0 : 20;
+        [boardView setCenter:CGPointMake(centerX, self.view.frame.size.height/2 - offCenter)];
+        [scrollView addSubview:boardView];
+    }
+
+    [self.view addSubview:scrollView];
+
+    _pageControl = [[UIPageControl alloc] initWithFrame:CGRectMake(0, self.view.frame.size.height - 30 - 44, self.view.frame.size.width, 30)];
+    [_pageControl setNumberOfPages:[_solutions count] / 16];
+    [_pageControl setCurrentPage:0];
+    [_pageControl setBackgroundColor:[UIColor darkGrayColor]];
+    [self.view addSubview:_pageControl];
+    [self.view bringSubviewToFront:_pageControl];
 }
 
 - (void)didReceiveMemoryWarning
@@ -49,58 +72,10 @@
     // Dispose of any resources that can be recreated.
 }
 
-#pragma mark - Table view data source
-
-- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
-    return [_solutions count] / 16;
-}
-
-- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-    return 1;
-}
-
-- (UIView *)tableView:(UITableView *)tableView viewForHeaderInSection:(NSInteger)section {
-    UIView *tempView=[[UIView alloc]initWithFrame:CGRectMake(0,200,320,244)];
-    tempView.backgroundColor=[UIColor darkGrayColor];
-
-    UILabel *tempLabel=[[UILabel alloc]initWithFrame:CGRectMake(15,0,300,44)];
-    tempLabel.backgroundColor=[UIColor clearColor];
-    tempLabel.shadowColor = [UIColor blackColor];
-    tempLabel.shadowOffset = CGSizeMake(0,2);
-    tempLabel.textColor = [UIColor whiteColor]; //here you can change the text color of header.
-    tempLabel.text=[NSString stringWithFormat:@"Page %i", section + 1];
-
-    [tempView addSubview:tempLabel];
-    return tempView;
-}
-
-- (CGFloat)tableView:(UITableView *)tableView heightForHeaderInSection:(NSInteger)section {
-    return 40.0f;
-}
-
-- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
-    return 360.0f;
-}
-
-- (void)tableView:(UITableView *)tableView willDisplayCell:(UITableViewCell *)cell forRowAtIndexPath:(NSIndexPath *)indexPath {
-    cell.backgroundColor = [UIColor darkGrayColor];
-}
-
-- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
-{
-    static NSString *CellIdentifier = @"SolutionCell";
-    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier];
-    if (cell == nil) {
-        cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleValue1 reuseIdentifier:CellIdentifier];
-        [cell setSelectionStyle:UITableViewCellSelectionStyleNone];
-        [cell.textLabel setTextColor:[UIColor whiteColor]];
-        [cell.detailTextLabel setTextColor:[UIColor whiteColor]];
-    }
-
-    BoardView *boardView = [[BoardView alloc] initWithAnswers:_solutions batchNumber:indexPath.section];
-    [cell addSubview:boardView];
-
-    return cell;
+- (void)scrollViewDidEndDecelerating:(UIScrollView *)scrollView{
+    int newOffset = scrollView.contentOffset.x;
+    int newPage = (int)(newOffset/(scrollView.frame.size.width));
+    [_pageControl setCurrentPage:newPage];
 }
 
 @end

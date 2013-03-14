@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SolutionViewController : UITableViewController
+@interface SolutionViewController : UIViewController
 
 - (id)initWithLevel:(NSString *)level;
 

@@ -19,14 +19,28 @@
 
 - (id)initWithAnswers:(NSArray *)answers batchNumber:(int)number;
 {
-    self = [super initWithFrame:CGRectMake(0, 0, 320, 360)];
+    self = [super initWithFrame:CGRectMake(0, 0, 320, 480 - 44)];
     if (self) {
         // Initialization code
         _answers = answers;
         _number = number;
 
-        _answerLabel = [[UILabel alloc] initWithFrame:CGRectMake(0, 320, 320, 40)];
+        _answerLabel = [[UILabel alloc] initWithFrame:CGRectMake(10, 480 - 44 - 120, 300, 70)];
+        [_answerLabel setBackgroundColor:[UIColor darkGrayColor]];
+        [_answerLabel setTextColor:[UIColor whiteColor]];
+        [_answerLabel setFont:[UIFont boldSystemFontOfSize:36]];
+        [_answerLabel setTextAlignment:NSTextAlignmentCenter];
+        [_answerLabel setAdjustsFontSizeToFitWidth:YES];
         [self addSubview:_answerLabel];
+
+        UILabel *titleLabel = [[UILabel alloc] init];
+        [titleLabel setBackgroundColor:[UIColor clearColor]];
+        [titleLabel setTextColor:[UIColor whiteColor]];
+        [titleLabel setFont:[UIFont systemFontOfSize:28]];
+        [titleLabel setText:[NSString stringWithFormat:@"Page %i", _number + 1]];
+        [titleLabel sizeToFit];
+        [titleLabel setCenter:CGPointMake(self.frame.size.width/2, -35)];
+        [self addSubview:titleLabel];
 
         int inset = 8;
         int squareSize = 70;
@@ -55,7 +69,7 @@
 }
 
 - (void)updateAnswerLabel:(UIButton *)button {
-    [_answerLabel setText:[NSString stringWithFormat:@"Answer for tile %i: %@", button.tag + 1, [_answers objectAtIndex:(button.tag + 16 *_number)]]];
+    [_answerLabel setText:[_answers objectAtIndex:(button.tag + 16 *_number)]];
 }
 
 @end
