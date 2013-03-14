@@ -23,6 +23,10 @@
 		8566585216F17B5C00F116D9 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8566585116F17B5C00F116D9 /* StoreKit.framework */; };
 		8566585516F17C1600F116D9 /* CustomColorAccesory.m in Sources */ = {isa = PBXBuildFile; fileRef = 8566585416F17C1600F116D9 /* CustomColorAccesory.m */; };
 		8566585816F17EF700F116D9 /* SolutionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8566585716F17EF700F116D9 /* SolutionViewController.m */; };
+		8566585C16F1898D00F116D9 /* navigation_bar.png in Resources */ = {isa = PBXBuildFile; fileRef = 8566585A16F1898D00F116D9 /* navigation_bar.png */; };
+		8566585D16F1898D00F116D9 /* navigation_bar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8566585B16F1898D00F116D9 /* navigation_bar@2x.png */; };
+		8566586116F1955A00F116D9 /* BoardView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8566586016F1955A00F116D9 /* BoardView.m */; };
+		8566586316F19C4C00F116D9 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8566586216F19C4B00F116D9 /* QuartzCore.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +55,11 @@
 		8566585416F17C1600F116D9 /* CustomColorAccesory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomColorAccesory.m; sourceTree = "<group>"; };
 		8566585616F17EF700F116D9 /* SolutionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SolutionViewController.h; sourceTree = "<group>"; };
 		8566585716F17EF700F116D9 /* SolutionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SolutionViewController.m; sourceTree = "<group>"; };
+		8566585A16F1898D00F116D9 /* navigation_bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = navigation_bar.png; path = Assets/navigation_bar.png; sourceTree = "<group>"; };
+		8566585B16F1898D00F116D9 /* navigation_bar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "navigation_bar@2x.png"; path = "Assets/navigation_bar@2x.png"; sourceTree = "<group>"; };
+		8566585F16F1955A00F116D9 /* BoardView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BoardView.h; sourceTree = "<group>"; };
+		8566586016F1955A00F116D9 /* BoardView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BoardView.m; sourceTree = "<group>"; };
+		8566586216F19C4B00F116D9 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +67,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8566586316F19C4C00F116D9 /* QuartzCore.framework in Frameworks */,
 				8566585216F17B5C00F116D9 /* StoreKit.framework in Frameworks */,
 				8566582316F174D400F116D9 /* UIKit.framework in Frameworks */,
 				8566582516F174D400F116D9 /* Foundation.framework in Frameworks */,
@@ -71,6 +81,7 @@
 		8566581616F174D400F116D9 = {
 			isa = PBXGroup;
 			children = (
+				8566585916F1897700F116D9 /* Assets */,
 				8566584A16F17A4300F116D9 /* IAP */,
 				8566582816F174D400F116D9 /* IPBCheats */,
 				8566582116F174D400F116D9 /* Frameworks */,
@@ -89,6 +100,7 @@
 		8566582116F174D400F116D9 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				8566586216F19C4B00F116D9 /* QuartzCore.framework */,
 				8566585116F17B5C00F116D9 /* StoreKit.framework */,
 				8566582216F174D400F116D9 /* UIKit.framework */,
 				8566582416F174D400F116D9 /* Foundation.framework */,
@@ -100,6 +112,7 @@
 		8566582816F174D400F116D9 /* IPBCheats */ = {
 			isa = PBXGroup;
 			children = (
+				8566585E16F1954700F116D9 /* Views */,
 				8566585316F17C1600F116D9 /* CustomColorAccesory.h */,
 				8566585416F17C1600F116D9 /* CustomColorAccesory.m */,
 				8566583116F174D400F116D9 /* AppDelegate.h */,
@@ -137,6 +150,24 @@
 				8566584E16F17A5500F116D9 /* NLPurchasesManager.m */,
 			);
 			name = IAP;
+			sourceTree = "<group>";
+		};
+		8566585916F1897700F116D9 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				8566585A16F1898D00F116D9 /* navigation_bar.png */,
+				8566585B16F1898D00F116D9 /* navigation_bar@2x.png */,
+			);
+			name = Assets;
+			sourceTree = "<group>";
+		};
+		8566585E16F1954700F116D9 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				8566585F16F1955A00F116D9 /* BoardView.h */,
+				8566586016F1955A00F116D9 /* BoardView.m */,
+			);
+			name = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -195,6 +226,8 @@
 				8566583716F174D400F116D9 /* Default@2x.png in Resources */,
 				8566583916F174D400F116D9 /* Default-568h@2x.png in Resources */,
 				8566584616F1770300F116D9 /* IPBCheats.plist in Resources */,
+				8566585C16F1898D00F116D9 /* navigation_bar.png in Resources */,
+				8566585D16F1898D00F116D9 /* navigation_bar@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,6 +245,7 @@
 				8566585016F17A5500F116D9 /* NLPurchasesManager.m in Sources */,
 				8566585516F17C1600F116D9 /* CustomColorAccesory.m in Sources */,
 				8566585816F17EF700F116D9 /* SolutionViewController.m in Sources */,
+				8566586116F1955A00F116D9 /* BoardView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

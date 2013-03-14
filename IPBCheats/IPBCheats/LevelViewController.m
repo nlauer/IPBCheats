@@ -33,9 +33,9 @@
     
     _levels = [[AppDelegate appDelegate] getAllLevels];
 
-//    UIImageView *tempImageView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"background"]];
-//    [tempImageView setFrame:self.tableView.frame];
-//    self.tableView.backgroundView = tempImageView;
+    UIView *backgroundView = [[UIView alloc] initWithFrame:self.tableView.frame];
+    [backgroundView setBackgroundColor:[UIColor darkGrayColor]];
+    self.tableView.backgroundView = backgroundView;
     [self.tableView setSeparatorColor:[UIColor darkGrayColor]];
     [self.tableView setSeparatorStyle:UITableViewCellSeparatorStyleSingleLine];
 
@@ -80,7 +80,7 @@
     if (urlData) {
         [urlData writeToFile:filePath atomically:YES];
         UIAlertView *alertView = [[UIAlertView alloc] initWithTitle:@"Success"
-                                                            message:@"Answers have been updated to the latest version of IcoMania"
+                                                            message:@"Answers have been updated to the latest version of Icon Pop Brand"
                                                            delegate:nil
                                                   cancelButtonTitle:@"Okay"
                                                   otherButtonTitles:nil];

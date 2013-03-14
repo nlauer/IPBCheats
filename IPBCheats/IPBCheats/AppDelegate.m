@@ -17,6 +17,8 @@
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
+    [[UINavigationBar appearance] setBackgroundImage:[UIImage imageNamed:@"navigation_bar"] forBarMetrics:UIBarMetricsDefault];
+    [[UIBarButtonItem appearance] setTintColor:[UIColor colorWithPatternImage:[UIImage imageNamed:@"navigation_bar"]]];
     [self loadSolutions];
 
     self.viewController = [[LevelViewController alloc] initWithStyle:UITableViewStyleGrouped];
