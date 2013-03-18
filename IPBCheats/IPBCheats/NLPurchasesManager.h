@@ -8,7 +8,7 @@
 
 #import "IAPHelper.h"
 
-#define ALL_WORDS_PURCHASE_IDENTIFIER @"com.nlauer.IPBCheats.UnlockAllLevels"
+#define ALL_WORDS_PURCHASE_IDENTIFIER @"com.nlauer.IBPCheats.UnlockAllLevels"
 
 @interface NLPurchasesManager : IAPHelper
 

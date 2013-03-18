@@ -61,7 +61,6 @@
 
 + (BOOL)hasUnlockedAllLevels {
     return [[NLPurchasesManager sharedInstance] productPurchased:ALL_WORDS_PURCHASE_IDENTIFIER];
-    return YES;
 }
 
 - (void)loadSolutions {
